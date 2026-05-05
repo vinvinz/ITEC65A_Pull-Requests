@@ -4,7 +4,7 @@ Teacher List
 1. Vince Lorenz L. Dela Rea
 
 202-C List
-1.
+1. Idria, Tracy Allen P.
 2.
 3.
 4.
