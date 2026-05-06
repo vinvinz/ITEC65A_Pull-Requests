@@ -21,8 +21,8 @@ Teacher List
 // You can add numbers to continue the list
 
 202-E List
-1.
-2. Velasquez, Saren Jay M. 
+1.Velasquez, Saren Jay M.
+2. 
 3.
 4.
 5.
