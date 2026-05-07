@@ -49,7 +49,7 @@ Teacher List
 202-E List
 1. Satsatin, Carlito Y.
 2. Velasquez, Saren Jay M.
-3.
+3. Satsatin, Carlos Y.
 4.
 5.
 // You can add numbers to continue the list
