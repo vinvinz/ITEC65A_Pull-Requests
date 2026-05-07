@@ -52,4 +52,17 @@ Teacher List
 3.
 4.
 5.
+6.
+7.
+8.
+9.
+10.
+11.
+12. Satsatin, Carlos Y.
+13.
+14.
+15.
+16.
+17.
+18.
 // You can add numbers to continue the list
