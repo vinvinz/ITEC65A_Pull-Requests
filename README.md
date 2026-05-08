@@ -52,4 +52,19 @@ Teacher List
 3. Reyel, Jan Vincent C.
 4.
 5.Sales, Nicole E.
+6.
+7.
+8.
+9.
+10.
+11.
+12. Satsatin, Carlos Y.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 // You can add numbers to continue the list
