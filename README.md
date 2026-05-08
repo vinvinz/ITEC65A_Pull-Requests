@@ -7,7 +7,7 @@ Teacher List
 1. Idria, Tracy Allen P.
 2. Golosino, Atheena Ghabriell M.
 3.Jesoro, John Lui R.
-4.
+4.Lagui,LanceElliot S.
 5. 
 6. 
 7. 
