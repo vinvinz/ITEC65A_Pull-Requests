@@ -42,7 +42,7 @@ Teacher List
 1. Nabua, Mark Joseph H.
 2. Masambal, John Paul M.
 3. Osias, Tyron N.
-4.
+4. Obligado, Ron Eiezer F.
 5.
 // You can add numbers to continue the list
 
