@@ -16,7 +16,7 @@ Teacher List
 10. 
 11. 
 12. 
-13. 
+13. Lagui,LanceElliot S.
 14. 
 15. 
 16. 
