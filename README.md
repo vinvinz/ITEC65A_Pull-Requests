@@ -51,6 +51,7 @@ Teacher List
 2. Velasquez, Saren Jay M.
 3. Reyel, Jan Vincent C.
 4.
+<<<<<<< HEAD
 5.Sales, Nicole E.
 
 
@@ -62,4 +63,7 @@ Teacher List
 
 14. Silvestre, Sigmon Earl G.
 
+=======
+5.
+>>>>>>> parent of 116afe9 (Added Silvestre)
 // You can add numbers to continue the list
