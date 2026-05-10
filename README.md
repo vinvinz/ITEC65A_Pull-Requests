@@ -53,7 +53,7 @@ Teacher List
 4. Silvestre, Sigmon Earl G.
 5.Sales, Nicole E.
 6.
-7.
+7. Remigio, Francine Ashley L.
 8.
 9.
 10.
