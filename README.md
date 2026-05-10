@@ -57,7 +57,7 @@ Teacher List
 8.
 9.
 10.
-11.
+11. Vendiola, Efraim Andrei D.
 12.
 13.
 14.
