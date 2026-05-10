@@ -52,7 +52,7 @@ Teacher List
 3. Reyel, Jan Vincent C.
 4. Silvestre, Sigmon Earl G.
 5.Sales, Nicole E.
-6.
+6. 
 7.
 8.
 9.
@@ -64,6 +64,7 @@ Teacher List
 15.
 16.
 17.
-18.
+18. Gonzales, Matt Hardy A.
 19. Yubal, Sarjie O.
+
 // You can add numbers to continue the list
