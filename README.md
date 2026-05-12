@@ -51,7 +51,7 @@ Teacher List
 2. Velasquez, Saren Jay M.
 3. Reyel, Jan Vincent C.
 4. Silvestre, Sigmon Earl G.
-5.Sales, Nicole E.
+5. Sales, Nicole E.
 6.
 7.
 8.
@@ -59,7 +59,7 @@ Teacher List
 10.
 11.
 12.
-13.
+13. Villarejo, Charilou D.
 14.
 15.
 16.
