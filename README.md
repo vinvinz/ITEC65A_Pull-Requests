@@ -27,7 +27,7 @@ Teacher List
 21. 
 22. 
 23. Madlangbayan, Lenard G.
-24. 
+24. Magdaraog, Mabey K.
 25. 
 26. 
 27. 
