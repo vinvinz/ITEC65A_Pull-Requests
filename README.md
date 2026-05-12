@@ -43,7 +43,7 @@ Teacher List
 2. Masambal, John Paul M.
 3. Osias, Tyron N.
 4. Moya, Warren D.
-5.
+5. Lipaopao , Angela May O.
 // You can add numbers to continue the list
 
 202-E List
