@@ -17,7 +17,7 @@ Teacher List
 11. 
 12. 
 13. Jesoro, John Lui R.
-14. 
+14. Ladista, Mjay E.
 15. 
 16. 
 17. 
