@@ -4,7 +4,7 @@ Teacher List
 1. Vince Lorenz L. Dela Rea
 
 202-C List
-1. Idria, Tracy Allen P.
+1. Cansino, Mark Angelo C.
 2. Golosino, Atheena Ghabriell M.
 3. Jesoro, John Lui R.
 4.
@@ -13,7 +13,7 @@ Teacher List
 7. 
 8. 
 9. 
-10. 
+10. Idria, Tracy Allen P.
 11. 
 12. 
 13. Jesoro, John Lui R.
