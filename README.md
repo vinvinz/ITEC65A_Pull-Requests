@@ -57,7 +57,7 @@ Teacher List
 7.
 8.
 9.
-10.
+10. Sy, Charles Adrian Y.
 11.
 12.
 13.
