@@ -56,7 +56,7 @@ Teacher List
 6.
 7.
 8.
-9.
+9. Yalong, Veronica Faye T.
 10.
 11.
 12.
