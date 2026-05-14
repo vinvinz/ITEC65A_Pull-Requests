@@ -55,7 +55,7 @@ Teacher List
 5.Sales, Nicole E.
 6.
 7.
-8.
+8. 
 9. Yalong, Veronica Faye T.
 10.
 11.
