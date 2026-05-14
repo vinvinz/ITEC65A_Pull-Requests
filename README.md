@@ -30,7 +30,7 @@ Teacher List
 24. 
 25. 
 26. 
-27. 
+27. Maraan, Angelo F.
 28. 
 
 
