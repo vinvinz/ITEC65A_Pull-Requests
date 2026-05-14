@@ -44,7 +44,6 @@ Teacher List
 3. Osias, Tyron N.
 4. Moya, Warren D.
 5. Montero, Daniel Ashley C.
-// You can add numbers to continue the list
 
 202-E List
 1. Satsatin, Carlito Y.
