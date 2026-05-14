@@ -11,7 +11,7 @@ Teacher List
 5. 
 6. Mansueto,nikyross L.
 7. 
-8. 
+8. Gubaton, Joshua M.
 9. 
 10. 
 11. 
