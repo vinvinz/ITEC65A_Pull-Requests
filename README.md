@@ -30,7 +30,7 @@ Teacher List
 24. 
 25. 
 26. 
-27. 
+27. Maraan, Angelo F.
 28. 
 
 
@@ -43,9 +43,12 @@ Teacher List
 2. Masambal, John Paul M.
 3. Osias, Tyron N.
 4. Moya, Warren D.
-5. Marquez, Jag Joshua M.
-6. 
+5. Muzares, Jeewel Anne B.
+6. Marquez, Jag Joshua M.
 7. 
+8. 
+9. 
+10. 
 // You can add numbers to continue the list
 
 202-E List
@@ -68,4 +71,5 @@ Teacher List
 17.
 18.
 19. Yubal, Sarjie O.
+20. Tesoro, Mark Theodore L.
 // You can add numbers to continue the list
