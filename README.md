@@ -24,7 +24,7 @@ Teacher List
 18. 
 19. 
 20. 
-21. 
+21. Lumactod, Ralph Miguel U.
 22. 
 23. Madlangbayan, Lenard G.
 24. 
