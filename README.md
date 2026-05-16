@@ -44,7 +44,7 @@ Teacher List
 3. Osias, Tyron N.
 4. Moya, Warren D.
 5. Muzares, Jeewel Anne B.
-6. Peligrino, Jb A,
+6. 
 7. 
 // You can add numbers to continue the list
 
